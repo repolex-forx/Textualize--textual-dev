@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/Textualize/textual-dev/commit/e563f96f32d582b7cf22622a401f537c40349adc",
       "git:hexsha": "e563f96f32d582b7cf22622a401f537c40349adc",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.8.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.8.0",
+      "repolex:parsedAt": "2026-10-28T12:22:32.289689+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Textualize/textual-dev/commit/6b350c989126fcafffb635675a1c84ce83aea158",
